@@ -14,6 +14,7 @@
     <value>Остатки товаров</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
+  <registerType>Turnovers</registerType>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="8055e731-dd89-4dd2-bf46-65351d8e1607">
